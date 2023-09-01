@@ -1,0 +1,8 @@
+D:\C#\SimpleLinearRegression\bin\Debug\SimpleLinearRegression.exe.config
+D:\C#\SimpleLinearRegression\bin\Debug\SimpleLinearRegression.exe
+D:\C#\SimpleLinearRegression\bin\Debug\SimpleLinearRegression.pdb
+D:\C#\SimpleLinearRegression\obj\Debug\SimpleLinearRegression.csproj.AssemblyReference.cache
+D:\C#\SimpleLinearRegression\obj\Debug\SimpleLinearRegression.csproj.SuggestedBindingRedirects.cache
+D:\C#\SimpleLinearRegression\obj\Debug\SimpleLinearRegression.csproj.CoreCompileInputs.cache
+D:\C#\SimpleLinearRegression\obj\Debug\SimpleLinearRegression.exe
+D:\C#\SimpleLinearRegression\obj\Debug\SimpleLinearRegression.pdb
